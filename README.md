@@ -47,7 +47,7 @@ docker.io/xiuxiu10201/115:latest
 ```
 
 
-运行成功后进入http://192.168.31.156:1150/vnc.html
+运行成功后进入http://localhost:1150/vnc.html
 
 密码123456，需要自定义则在代码第三行修改
 
